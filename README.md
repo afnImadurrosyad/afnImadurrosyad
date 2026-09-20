@@ -92,15 +92,26 @@ I am **Afnan Imadurrosyad**, a technology student at **Institut Teknologi Sumate
 
 <div align="center">
   <a href="https://github.com/afnImadurrosyad">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=afnImadurrosyad&show_icons=true&hide_border=true&bg_color=0F172A&title_color=F8FAFC&text_color=94A3B8&icon_color=22C55E&ring_color=22C55E&rank_icon=github" alt="Afnan's GitHub statistics" />
-  </a>
-  <a href="https://github.com/afnImadurrosyad">
-    <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=afnImadurrosyad&hide_border=true&background=0F172A&ring=22C55E&fire=22C55E&currStreakLabel=F8FAFC&sideLabels=94A3B8&dates=64748B&stroke=0F172A" alt="Afnan's GitHub contribution streak" />
+    <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=afnImadurrosyad&theme=github_dark" alt="GitHub profile summary: repositories, commits, pull requests, and contribution overview" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=afnImadurrosyad&bg_color=0F172A&color=94A3B8&line=22C55E&point=F8FAFC&area=true&area_color=22C55E&hide_border=true&radius=8" alt="GitHub contribution activity graph" />
+  <a href="https://github.com/afnImadurrosyad">
+    <img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=afnImadurrosyad&theme=github_dark" alt="Total stars, commits, pull requests, and issues" />
+  </a>
+  <a href="https://github.com/afnImadurrosyad">
+    <img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=afnImadurrosyad&theme=github_dark" alt="Most used languages by commit" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/afnImadurrosyad">
+    <img height="190" src="https://streak-stats.demolab.com?user=afnImadurrosyad&hide_border=true&background=0F172A&ring=22C55E&fire=22C55E&currStreakLabel=F8FAFC&sideLabels=94A3B8&dates=64748B&stroke=0F172A" alt="Contribution streak: current, longest, and total" />
+  </a>
+  <a href="https://github.com/afnImadurrosyad">
+    <img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=afnImadurrosyad&theme=github_dark" alt="Repositories per language" />
+  </a>
 </div>
 
 ## `05` / Contribution journey
