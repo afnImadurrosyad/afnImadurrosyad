@@ -9,9 +9,9 @@
     <img src="https://img.shields.io/github/followers/afnImadurrosyad?style=for-the-badge&logo=github&label=FOLLOWERS&labelColor=0F172A&color=22C55E" alt="GitHub followers" />
   </a>
   <a href="https://github.com/afnImadurrosyad?tab=repositories">
-    <img src="https://img.shields.io/badge/Public%20repositories-6-22C55E?style=for-the-badge&labelColor=0F172A&logo=github" alt="Six public GitHub repositories" />
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FafnImadurrosyad&query=%24.public_repos&label=PUBLIC%20REPOSITORIES&style=for-the-badge&labelColor=0F172A&color=22C55E&logo=github" alt="Number of public GitHub repositories" />
   </a>
-  <a href="https://www.its.ac.id/">
+  <a href="https://www.itera.ac.id/">
     <img src="https://img.shields.io/badge/Institut%20Teknologi%20Sumatera-Lampung%2C%20Indonesia-38BDF8?style=for-the-badge&labelColor=0F172A" alt="Institut Teknologi Sumatera, Lampung, Indonesia" />
   </a>
 </div>
